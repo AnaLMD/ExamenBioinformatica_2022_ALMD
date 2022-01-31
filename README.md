@@ -119,6 +119,8 @@ El gen mas sobreexpresado es el RBP1
 
 # 6. Sube el examen a github y escribe a continuación tu url aquí.
 
+https://github.com/AnaLMD/ExamenBioinformatica_2022_ALMD.git
+
 
 # 7. Acaba el documento con el comando sessionInfo()
 sessionInfo()
